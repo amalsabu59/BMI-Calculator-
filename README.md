@@ -8,7 +8,6 @@ Validates the input fields
 Displays the result with a clear message
 If the user is underweight, it displays how much weight should be added to be normal
 UI built with a good looking design
-Provides an option to switch between KG/Pound and CM/Inches
 Built-in background image
 Status bar hidden
 Getting Started
