@@ -31,9 +31,6 @@ Your Name
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-PurpleBooth for the README template.
-Note
-This is a sample README, you may need to adjust and extend it to fit your specific project and requirements.
+
 
 Please let me know if you have any other questions, I'd be happy to help.
